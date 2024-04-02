@@ -1,4 +1,14 @@
 body{
-    font-family: Verdana;
+    font-family: Arial;
+    text-align: center;
+}
+#buttonID{
     font-size: 2em;
+    padding: 5px 25px;
+    border-radius: 5px;
+    color: #000000;
+    background-color: rgb(70, 170, 195);
+}
+#myLabel{
+    font-size: 3em;
 }
